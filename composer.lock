@@ -1,0 +1,49 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "9b7df83c48e69ee19d3a5e0d4577a5d2",
+    "packages": [
+        {
+            "name": "azdev/ofe",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/abubakrelzoghby/azdev-ofe.git",
+                "reference": "2fedcea573df29e69d97f7034841cf1b0abca4a1"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/abubakrelzoghby/azdev-ofe/zipball/2fedcea573df29e69d97f7034841cf1b0abca4a1",
+                "reference": "2fedcea573df29e69d97f7034841cf1b0abca4a1",
+                "shasum": ""
+            },
+            "require": {
+                "php": "^7.2"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Ofe\\": "src/Ofe"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "description": "PHP simple FW only FE",
+            "time": "2020-08-07T22:45:45+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "azdev/ofe": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": {
+        "php": "^7.2"
+    },
+    "platform-dev": []
+}
