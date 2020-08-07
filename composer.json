@@ -4,7 +4,7 @@
 	
     "require": {
         "php": "^7.2",
-		"azdev/ofe": "dev-master",
+		"azdev/ofe": "dev-master"
     },
 
 	"autoload": {
