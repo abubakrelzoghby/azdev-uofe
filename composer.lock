@@ -12,12 +12,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/abubakrelzoghby/azdev-ofe.git",
-                "reference": "2fedcea573df29e69d97f7034841cf1b0abca4a1"
+                "reference": "1507284ee332e77a693614d27a66e64eb893e778"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/abubakrelzoghby/azdev-ofe/zipball/2fedcea573df29e69d97f7034841cf1b0abca4a1",
-                "reference": "2fedcea573df29e69d97f7034841cf1b0abca4a1",
+                "url": "https://api.github.com/repos/abubakrelzoghby/azdev-ofe/zipball/1507284ee332e77a693614d27a66e64eb893e778",
+                "reference": "1507284ee332e77a693614d27a66e64eb893e778",
                 "shasum": ""
             },
             "require": {
@@ -31,7 +31,7 @@
             },
             "notification-url": "https://packagist.org/downloads/",
             "description": "PHP simple FW only FE",
-            "time": "2020-08-07T22:45:45+00:00"
+            "time": "2020-08-08T00:21:18+00:00"
         }
     ],
     "packages-dev": [],
